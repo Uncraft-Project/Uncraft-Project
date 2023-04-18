@@ -1,2 +1,2 @@
 # Uncraft-Project
-Uncraft is a minecraft mod in active development. This mod is made possible and developed by Flat Out Development.
+The Uncraft Project is an exciting Minecraft mod in active development that promises to add new biomes, mobs, and items to the game. While currently limited to an underwater crown and UI tweaks, the planned content suggests that the mod will significantly expand the gameplay experience. Minecraft fans should keep an eye on this mod as it develops, as it has the potential to revolutionize the game and provide hours of new and exciting gameplay.
